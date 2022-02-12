@@ -1,0 +1,29 @@
+[
+    {
+        "produto": "Abominable Hoodie",
+        "tamanho": "L",
+        "cor": "Blue",
+        "qtd": "2"
+    },
+
+    {
+        "produto": "Arcadio Gym Short",
+        "tamanho": "36",
+        "cor": "Red",
+        "qtd": "10"
+    },
+
+    {
+        "produto": "Aether Gym Pant",
+        "tamanho": "36",
+        "cor": "Brown",
+        "qtd": "5"
+    },
+
+    {
+        "produto": "Apollo Running Short", 
+        "tamanho": "32",
+        "cor": "Black",
+        "qtd": "1"
+    }
+]
